@@ -304,7 +304,7 @@ class: center, middle, inverse
 
 <!--Matúš, 2 minutes-->
 
-![mka](img/mk_transparent_crop_small.png)
+![swi](img/mk_transparent_crop_small.png)
 
 <!-- If you're asking whether you can be a helper, you most likely can! -->
 - assigned a **breakout room**  <!-- Semi-stable breakout room assignment, with minimum changes of the "assigned" learners -->
