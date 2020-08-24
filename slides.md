@@ -247,7 +247,10 @@ One week before the workshop:
 ## Zoom room use for pre- and post-session
 
 <!-- Naoe? -->
-- We opened the Zoom room 30 minutes before the scheduled session start.
+- We opened the Zoom room 30 minutes before the scheduled session
+  start.
+  - Icebreaker starts 10 minutes early, ask people to come early
+  - Also extra install help and discussion
 - After the scheduled session is over, we kept the Zoom room open for;
 	- Debriefing among helpers and instructors,
 	- Individual help by helper or expert helper,
