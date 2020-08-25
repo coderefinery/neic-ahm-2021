@@ -28,12 +28,12 @@ class: center, middle, inverse
 
 <!-- RB, 5 minutes, 3 slides -->
 
-(Radovan will add logo and/or map)
-
 - Funded 2016-2021 by [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/)
 - Co-funding by Sigma2 (Norway), SNIC (Sweden), DeiC (Denmark), CSC (Finland), ETAIS (Estonia)
 - Important hubs: NTNU Trondheim, University of Oslo, KTH Stockholm, Aalto University
 - Trained over 700 learners [in over 30 workshops](https://coderefinery.org/workshops/past/)
+
+<img src="img/map.png" alt="Map of workshops" style="width:30%">
 
 ---
 
