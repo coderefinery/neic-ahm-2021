@@ -211,12 +211,20 @@ One week before the workshop:
 
 - With 100 people, there is very little tolerance for technical
   problems.
-- Huge emphasis: install and *test* software before, said in every email.
+- Huge emphasis: install and *test* software before, said in every
+  email.
+  - Very thorough setup instructions, plus university-specific
+    instructions.
+  - Made three videos about git configuration, plus "shell crash
+    course"
 - Two pre-workshop "verification times", request that everyone attends
   (if half do, it's good enough)
-- In the verification time, we would pair learners with helpers and
-  have them test git and Python (not just install, but settings).
-- Verification times also let us practice with the tech with helpers in advance.
+  - In the verification time, we would pair learners with helpers and
+	have them test git and Python (not just install, but settings).
+  - Verification times also serve as a "soft start" to practice tech
+    early.
+  - Credit to [Jason Bell](https://youtu.be/MzsJyOkxqv8) for the idea.
+- In the end, we did not have major problems.
 <!-- refer notes https://hackmd.io/xuIr733fROuIpwQ1g2mkOw?view "install verification time" -->
 
 ---
