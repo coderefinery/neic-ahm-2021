@@ -231,7 +231,8 @@ class: center, middle, inverse
 
 &nbsp;
 
-- **helper in team** from Finnish Geospatial Research Institute
+- Samantha Wittke, PhD student at Aalto University and Researcher at Finnish Geospatial Research Institute (FGI)
+- **helper in team** from FGI
 - myself: in-person workshop **learner one year ago** 
 - **lower barrier** to interact/ask questions
 - explaining topics **work-related**
