@@ -19,7 +19,7 @@ class: center, middle, inverse
  - What is CodeRefinery? (5 minutes)
  - A vision of reaching many people at once (with BR session; 15 minutes)
  - How we did it (20 minutes)
- - Role presentation (20 minutes)
+ - Role presentations (20 minutes)
  - Future outlook and discussion (10 minutes)
 
 ---
@@ -297,13 +297,15 @@ One week before the workshop:
 class: center, middle, inverse
 
 # Role presentations
-1. Learner
-2. Helper
-3. Helper on a team
-4. Expert helper
-5. Instructor
-6. Zoom host
-7. HackMD host
+
+### 1. Learner
+### 2. Helper
+### 3. Helper on a team
+### 4. Expert helper
+### 5. Instructor
+### 6. Zoom host
+### 7. HackMD host
+
 <!--NT will moderate this session, 20 minutes　-->
 
 <!-- - They should: say what the role is, why the role is important, say what -->
