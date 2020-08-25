@@ -289,14 +289,16 @@ class: center, middle, inverse
 
 ## Learner
 
-- Backround
-- Expectation
-- Arrangements:  Pre-workshop, Materials, learning tools, support organization
-- Challenges
-- Overall feedback
-- Outcome
+<!--Petri, 2 minutes-->
 
-...
+![swi](img/petri.jpg)
+- Petri Jehkonen, **learner**, Master's student at Aalto University
+- Background - SW (C, Assembly) for embedded solutions
+- Expectation - Git (only)
+- Workshop arrangements from beginning to end were well managed
+- Challenges for learner
+- Outcome - Much more than Git
+
 
 ---
 
