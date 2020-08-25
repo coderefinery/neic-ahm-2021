@@ -390,14 +390,15 @@ class: center, middle, inverse
 ## Host
 <!-- Naoe -->
 ![swi](img/naoe_tatara.jpg "Naoe Tatara")
+- Working at University of Oslo Science Library, Digital Scholarship Center project.
 - Dedicated for Zoom room management.
 	- Zoom-participant control <!-- entry approval and co-host assignment -->
 	- Communication with participants <!-- mainly via Zoom chat for practical things -->
 	- Breakout room management <!-- assignment, timing, disabling/enabling waiting room -->
 	- Recording and making sure streaming goes fine 
-- Keep consistency with team combination throughout the workshop
-- If a helper of a team is absent, 2 (or 3 ) teams are merged into 1 room
-- Important to pay attention to multiple communication channel
+- Keep consistency with breakout room composition but flexibly handle the situation.
+- Important to pay attention to multiple communication channel.
+- Learned a lot about online workshop mechanism and enjoyed the workshop!
 
 ---
 
