@@ -272,7 +272,7 @@ One week before the workshop:
 
 ---
 
-## Streaming and recording
+## Streaming and recording (1/2)
 
 <!-- RD drafts this, 2 minutes -->
 
@@ -283,16 +283,22 @@ One week before the workshop:
 	no risk of damage.
 - Zoom can stream directly to [Twitch](https://twitch.tv) (or other services) without any
   other software needed.
-  - Twitch is a streaming platform originally focused on games, we
-    knew it and it worked well.
-  - We interacted with Twitch viewers via Twitch chat + HackMD.  It
-    worked fairly well.
-  - We should have had less separation between zoomers and streamers,
-    and generally engaged the streamers more
 - It's a short step to recording
   - Recordings were very requested by learners, so they could re-watch
     what they learned.
 
+---
+
+## Streaming and recording (2/2)
+
+- [Twitch](https://twitch.tv) is a streaming platform originally focused on games, we
+  knew it and it worked well.
+- We interacted with Twitch viewers via Twitch chat + HackMD.  It
+  worked fairly well.
+- We should have had less separation between zoomers and streamers,
+  and generally engaged the streamers more
+
+<img src="img/twitch.png" alt="Twitch screenshot" style="width:60%">
 
 ---
 
