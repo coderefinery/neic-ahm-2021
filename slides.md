@@ -189,7 +189,9 @@ One week before the workshop:
 - Exercise/breakout-room walk-through (**we need to do this better next time**)
 
 
-### Hierarchical helpers
+---
+
+## Hierarchical helpers
 
 .left-column[
 - Helpers
@@ -376,6 +378,7 @@ class: center, middle, inverse
 
 ![swi](img/af.png "Anne Fouilloux")
 
+- Anne Fouilloux, Research Software Engineer at the department of Geosciences, Oslo University (Norway)
 - Taught from home with one screen (laptop)
 - Less pressure and easier to focus on the teaching thanks to CR team work (host, helpers, hackMD, etc.)
 - Need to have short assessments (surveys, questionnaires, etc.) frequently
