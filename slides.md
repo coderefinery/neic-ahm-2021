@@ -233,7 +233,8 @@ One week before the workshop:
 <!-- Naoe -->
 - Use of HackMD for collection of Q&A regarding lesson contents
 <ul style="list-style-type:' \002B \0020 \0020'">
-  <li> Instructor -> Learners AND Learners -> Instructors
+  <li> Interactive questions and answer (among learners and instructors).
+  <li> Safer way to ask questions anonymously.
   <li> A dedicated person answered to questions raised in HackMD (HackMD specialist).
   <li> Time schedule can be kept as an instructor can focus on the lecture and live coding.</li>
   <li> Cleaned and published copy was useful to helpers and learnes afterwards.</li>
@@ -247,14 +248,13 @@ One week before the workshop:
 ---
 
 ## Distribution of roles
-
+<!-- Naoe -->
 <img src="img/CC_role_distribution_illustration_HackMDspecialist.png" alt="a schematic illustration to show flexible assignment of roles of instructor and expert helper" width="100%" />
 
 ---
 
 ## Zoom room use for pre- and post-session
-
-<!-- Naoe? -->
+<!-- Naoe -->
 - We opened the Zoom room 30 minutes before the scheduled session
   start.
   - Icebreaker starts 10 minutes early, ask people to come early
