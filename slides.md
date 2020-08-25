@@ -149,9 +149,8 @@ class: center, middle, inverse
 	- ask learners to contribute to discussion via hackMD
 - Sometimes make a code-along exercise and always repeat similar exercise in breakout rooms
 
+*Move on when about 70% have answered so delegate potential misunderstanding to helpers during group exercises.*
 
-*Move on when about 70% have answered so delegate potential misunderstanding to helpers during group exercises.
-*
 ---
 
 ## Get help and group exercises in a breakout room
@@ -163,8 +162,8 @@ class: center, middle, inverse
 	- helpers played a key role to animate the group
 	- encouraged one learner to share his/her screen during the exercise
 
-*First day was a bit quiet, especially in groups where learners did not know each others.
-*
+*First day was a bit quiet, especially in groups where learners did not know each others.*
+
 ---
 
 ## Bring your own breakout room
