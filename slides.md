@@ -239,7 +239,7 @@ One week before the workshop:
   <li> Index where we are right now, links to lessons.
   <li> Safer way to ask questions anonymously. 
   <li> Easier to ask questions in an open landscape office.
-  <li> A dedicated person answered to questions raised in HackMD (HackMD specialist).
+  <li> A dedicated person answered to questions raised in HackMD (HackMD host).
   <li> Time schedule can be kept as an instructor can focus on the lecture and live coding.</li>
   <li> Cleaned and published copy was useful to helpers and learnes afterwards.</li>
   <li> Stable most of the time with 50-100 users (depending on the edit history length).</li>
@@ -297,7 +297,13 @@ One week before the workshop:
 class: center, middle, inverse
 
 # Role presentations
-
+1. Learner
+2. Helper
+3. Helper on a team
+4. Expert helper
+5. Instructor
+6. Zoom host
+7. HackMD host
 <!--NT will moderate this session, 20 minutes　-->
 
 <!-- - They should: say what the role is, why the role is important, say what -->
@@ -389,7 +395,7 @@ class: center, middle, inverse
 
 ---
 
-## Host
+## Zoom host
 <!-- Naoe -->
 ![swi](img/naoe_tatara.jpg "Naoe Tatara")
 - Naoe Tatara, University of Oslo Science Library, Digital Scholarship Center.
@@ -402,7 +408,7 @@ class: center, middle, inverse
 
 ---
 
-## HackMD specialist
+## HackMD host
 
 <!-- RD, 2 minutes -->
 
