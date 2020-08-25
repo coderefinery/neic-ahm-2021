@@ -327,6 +327,7 @@ class: center, middle, inverse
 ![swi](img/mk_transparent_crop_small.png)
 
 <!-- If you're asking whether you can be a helper, you most likely can! -->
+
 - assigned a **breakout room**  <!-- Semi-stable breakout room assignment, with minimum changes of the "assigned" learners -->
 - leads exercise work in their room, or just **helps the learners** therein and answers their questions  <!-- incl. indexing where we are / what we are doing, asking how it goes, etc. -->  <!-- "My" learners mostly preferred to work alone first & then ask questions if needed. Occasionally someone sharing their screen -->
 - **forwards** interesting questions and difficult problems to HackMD or expert helpers
@@ -371,11 +372,7 @@ class: center, middle, inverse
 
 ## Instructor
 
-### Who am I?
-
-<img src="img/mega-cr-instructor.png" width="40%" />
-
-### How was it to teach Mega-CR online?
+![swi](img/af.png "Anne Fouilloux")
 
 - Taught from home with one screen (laptop)
 - Less pressure and easier to focus on the teaching thanks to CR team work (host, helpers, hackMD, etc.)
