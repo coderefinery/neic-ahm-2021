@@ -1,5 +1,7 @@
 class: center, middle, inverse
 
+<img src="img/logo.png" alt="CodeRefinery logo" style="width:30%">
+
 # How to scale up your online workshop to reach 100 learners?
 
 ### Naoe Tatara, Radovan Bast, Richard Darst, Anne Fouilloux, Petri Jehkonen, Matúš Kalaš, Samantha Wittke
