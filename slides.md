@@ -200,7 +200,7 @@ One week before the workshop:
 - Expert helpers (more about this role later)
   - They support helpers
   - They cycle between breakout rooms]
-  
+
 .right-column[
 <img src="img/CC_hierarchical_helpers_illustration.png" alt="Expert helpers cycle between breakout rooms while helpers are assigned to one specific breakout room" style="width:100%">
 
@@ -237,7 +237,7 @@ One week before the workshop:
 <ul style="list-style-type:' \002B \0020 \0020'">
   <li> Interactive questions and answer (among learners and instructors).
   <li> Index where we are right now, links to lessons.
-  <li> Safer way to ask questions anonymously. 
+  <li> Safer way to ask questions anonymously.
   <li> Easier to ask questions in an open landscape office.
   <li> A dedicated person answered to questions raised in HackMD (HackMD host).
   <li> Time schedule can be kept as an instructor can focus on the lecture and live coding.</li>
@@ -359,7 +359,7 @@ class: center, middle, inverse
 
 - Samantha Wittke, PhD student at Aalto University and Researcher at Finnish Geospatial Research Institute (FGI)
 - **helper on a team** from FGI
-- myself: in-person workshop **learner one year ago** 
+- myself: in-person workshop **learner one year ago**
 - **lower barrier** to interact/ask questions
 - explaining topics **work-related**
 - **easy to get lost** in course-unrelated topics
@@ -437,10 +437,15 @@ class: center, middle, inverse
 
 <!-- RB, 10 minutes, q&a and "discussion" via hackmd -->
 
-- Continue with online workshops - this is not replacement to
-  in-person workshops but better in some ways
+- Continue with online workshops - not replacement to
+  in-person workshops but complementary.
+- Advantages: more reach, cheaper to participate, possible to
+  involve remote helpers.
 - Do larger online-workshops and streaming work for all audience types?
   (diversity, tech background, network bandwidth)
-- Encourage and accept lurkers more (better experience when streaming).
+- Encourage and accept observers/[lurkers](https://en.wikipedia.org/wiki/Lurker)
+  more (better experience when streaming).
 - How to encourage participation and protect privacy while streaming/recording?
 - How can we make a federated model via the stream? We don't know yet.
+
+Join us: [coderefinery.org](https://coderefinery.org/), [@coderefine](https://twitter.com/coderefine), [coderefinery.zulipchat.com](https://coderefinery.zulipchat.com/)
