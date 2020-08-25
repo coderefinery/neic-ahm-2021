@@ -64,8 +64,9 @@ https://coderefinery.org/lessons/
 ## CodeRefinery: relation to Carpentries
 
 - Using Carpentries teaching style and format
+- We believe that our lessons fill a gap
+- Lessons are not in the Carpentries incubator
 - Co-funding Carpentries coordinator Nordics/Baltics
-- Lessons are not yet in the Carpentries incubator
 
 
 ### Questions to the audience
