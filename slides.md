@@ -261,13 +261,20 @@ One week before the workshop:
 
 - If we have 100 people, interaction shifts to breakout rooms.  Why
   can't more watch the lecture?
-- Zoom meetings are *not* the right format for untrusted people to watch.
-- Streaming is the right format: listeners isolated from presenters,
-  no risk of damage.
-- Zoom can stream directly to Twitch (or other services) without any
+  - Zoom meetings are *not* the right format for untrusted people to watch.
+  - Streaming is the right format: listeners isolated from presenters,
+	no risk of damage.
+- Zoom can stream directly to [Twitch](https://twitch.tv) (or other services) without any
   other software needed.
-- We interacted with Twitch viewers via Twitch chat + hackmd.  It
-  worked fairly well.
+  - Twitch is a streaming platform originally focused on games, we
+    knew it and it worked well.
+  - We interacted with Twitch viewers via Twitch chat + hackmd.  It
+    worked fairly well.
+  - We should have had less separation between zoomers and streamers,
+    and generally engaged the streamers more
+- It's a short step to recording
+  - Recordings were very requested by learners, so they could re-watch
+    what they learned.
 
 
 ---
