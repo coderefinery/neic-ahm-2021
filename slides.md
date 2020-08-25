@@ -448,4 +448,4 @@ class: center, middle, inverse
 - How to encourage participation and protect privacy while streaming/recording?
 - How can we make a federated model via the stream? We don't know yet.
 
-Join us: [coderefinery.org](https://coderefinery.org/), [@coderefine](https://twitter.com/coderefine), [coderefinery.zulipchat.com](https://coderefinery.zulipchat.com/)
+### Join us: [coderefinery.org](https://coderefinery.org/), [@coderefine](https://twitter.com/coderefine), [coderefinery.zulipchat.com](https://coderefinery.zulipchat.com/)
