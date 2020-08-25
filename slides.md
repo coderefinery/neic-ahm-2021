@@ -283,7 +283,7 @@ One week before the workshop:
   other software needed.
   - Twitch is a streaming platform originally focused on games, we
     knew it and it worked well.
-  - We interacted with Twitch viewers via Twitch chat + hackmd.  It
+  - We interacted with Twitch viewers via Twitch chat + HackMD.  It
     worked fairly well.
   - We should have had less separation between zoomers and streamers,
     and generally engaged the streamers more
