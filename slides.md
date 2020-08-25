@@ -328,14 +328,18 @@ class: center, middle, inverse
 
 <!--Petri, 2 minutes-->
 
-![swi](img/petri.jpg)
+.left-column-70[
 - Petri Jehkonen, **learner**, Master's student at Aalto University
 - Background - SW (C, Assembly) for embedded solutions
 - Expectation - Git (only)
 - Workshop arrangements from beginning to end were well managed
 - Challenges for learner
 - Outcome - Much more than Git
+]
 
+.right-column-30[
+<img src="img/petri.jpg" class="round">
+]
 
 ---
 
@@ -343,10 +347,9 @@ class: center, middle, inverse
 
 <!--Matúš, 2 minutes-->
 
-![swi](img/mk_transparent_crop_small.png)
-
 <!-- If you're asking whether you can be a helper, you most likely can! -->
 
+.left-column-70[
 - assigned a **breakout room**  <!-- Semi-stable breakout room assignment, with minimum changes of the "assigned" learners -->
 - leads exercise work in their room, or just **helps the learners** therein and answers their questions  <!-- incl. indexing where we are / what we are doing, asking how it goes, etc. -->  <!-- "My" learners mostly preferred to work alone first & then ask questions if needed. Occasionally someone sharing their screen -->
 - **forwards** interesting questions and difficult problems to HackMD or expert helpers
@@ -357,30 +360,34 @@ class: center, middle, inverse
 	- more explicit about suggested layouts of screen(s) for learners, possibly specific to a given lecture or exercise (also presenters taking that into account for their screen)
 	- more explicit when & what helpers should prepare
 -->
+]
+
+.right-column-30[
+<img src="img/mk_transparent_crop_small.png" class="round">
+]
 
 ---
 
 ## Learner / Helper on a team
 
-![swi](img/samantha.jpg)
-
-&nbsp;
-
+.left-column-70[
 - Samantha Wittke, PhD student at Aalto University and Researcher at Finnish Geospatial Research Institute (FGI)
 - **helper on a team** from FGI
 - myself: in-person workshop **learner one year ago**
 - **lower barrier** to interact/ask questions
 - explaining topics **work-related**
 - **easy to get lost** in course-unrelated topics
+]
 
-
+.right-column-30[
+<img src="img/samantha.jpg" class="round">
+]
 
 ---
 
 ## Expert helper
 
-![swi](img/radovan-bast.jpg "Radovan Bast")
-
+.left-column-70[
 - Expert helper knows the material well
 - Cycles through breakout rooms to see how it is going
   - Ensure helpers are doing OK
@@ -388,25 +395,35 @@ class: center, middle, inverse
   - Encourage learners to share screen in breakout rooms
   - Provide advice when needed
 - Helper can call other helpers via HackMD/chat
+]
+
+.right-column-30[
+<img src="img/radovan-bast.jpg" class="round">
+]
 
 ---
 
 ## Instructor
 
-![swi](img/af.png "Anne Fouilloux")
-
+.left-column-70[
 - Anne Fouilloux, Research Software Engineer at the department of Geosciences, Oslo University (Norway)
 - Taught from home with one screen (laptop)
 - Less pressure and easier to focus on the teaching thanks to CR team work (host, helpers, hackMD, etc.)
 - Need to have short assessments (surveys, questionnaires, etc.) frequently
 - Code-along sessions were sometimes too fast for many learners and often became demos
 - Useful to be instructor and expert helper during the workshop
+]
+
+.right-column-30[
+<img src="img/af.png" class="round">
+]
 
 ---
 
 ## Zoom host
 <!-- Naoe -->
-![swi](img/naoe_tatara.jpg "Naoe Tatara")
+
+.left-column-70[
 - Naoe Tatara, University of Oslo Science Library, Digital Scholarship Center.
 - Dedicated for Zoom room management, including recording and streaming
 	- Zoom-participant control <!-- entry approval and co-host assignment -->
@@ -414,6 +431,11 @@ class: center, middle, inverse
 	- Breakout room management <!-- assignment, timing, disabling/enabling waiting room, flexibility and consistency -->
 - Important to pay attention to multiple communication channel.
 - Details on [our blog post](https://coderefinery.org/blog/2020/07/31/mega-coderefinery/)
+]
+
+.right-column-30[
+<img src="img/naoe_tatara.jpg" class="round">
+]
 
 ---
 

@@ -42,12 +42,22 @@ li {
   float: right;
 }
 
-img[alt=swi] {
+.round {
   width: 200px;
-  height:200px;
-  object-fit:cover;
-  border-radius:50%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
   position: relative;
-  left: 450px;
-  top:0px;
+  left: 0px;
+  top: 0px;
+}
+
+.left-column-70 {
+  width: 70%;
+  float: left;
+}
+
+.right-column-30 {
+  width: 30%;
+  float: right;
 }
