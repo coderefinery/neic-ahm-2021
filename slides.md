@@ -65,7 +65,7 @@ https://coderefinery.org/lessons/
 
 - Using Carpentries teaching style and format
 - We believe that our lessons fill a gap
-- Lessons are not in the Carpentries incubator
+- Lessons are not in the Carpentries incubator (incubator mostly for novices, lessons are mature, lessons are a package)
 - Co-funding Carpentries coordinator Nordics/Baltics
 
 
