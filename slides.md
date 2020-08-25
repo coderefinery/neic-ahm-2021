@@ -10,6 +10,30 @@ class: center, middle, inverse
 
 ---
 
+## We will talk about lessons learned from a "mega" workshop
+
+- Workshop: https://coderefinery.github.io/2020-05-25-online/
+- Blog post: https://coderefinery.org/blog/2020/07/31/mega-coderefinery/
+
+
+## This presentation is a team effort
+
+<img src="img/naoe_tatara.jpg" class="round-smaller">
+<img src="https://eu.ui-avatars.com/api/?name=R+D" class="round-smaller">
+<img src="img/af.png" class="round-smaller">
+<img src="img/petri.jpg" class="round-smaller">
+<img src="img/mk_transparent_crop_small.png" class="round-smaller">
+<img src="img/samantha.jpg" class="round-smaller">
+<img src="img/radovan-bast.jpg" class="round-smaller">
+
+[coderefinery.org](https://coderefinery.org/)
+
+[@coderefine](https://twitter.com/coderefine)
+
+[coderefinery.zulipchat.com](https://coderefinery.zulipchat.com/)
+
+---
+
 ## Introduction to the session
 <!-- Naoe -->
 

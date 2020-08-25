@@ -42,6 +42,16 @@ li {
   float: right;
 }
 
+.round-smaller {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  position: relative;
+  left: 0px;
+  top: 0px;
+}
+
 .round {
   width: 200px;
   height: 200px;
