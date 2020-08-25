@@ -108,7 +108,8 @@ https://coderefinery.org/lessons/
 - How can large be more inclusive?  How is it less?
 - What technical obstacles does it have?
 
-10 minutes to discuss in breakout rooms, summarize here after.
+*10 minutes to discuss in breakout rooms, summarize here after. Please
+write answers in HackMD.*
 
 <!--
 - Why you need a vision (Mega-Coderefinery vs HPC kickstart)
