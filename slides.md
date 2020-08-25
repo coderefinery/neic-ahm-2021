@@ -236,7 +236,9 @@ One week before the workshop:
 - Use of HackMD for collection of Q&A regarding lesson contents
 <ul style="list-style-type:' \002B \0020 \0020'">
   <li> Interactive questions and answer (among learners and instructors).
-  <li> Safer way to ask questions anonymously.
+  <li> Index where we are right now, links to lessons.
+  <li> Safer way to ask questions anonymously. 
+  <li> Easier to ask questions in an open landscape office.
   <li> A dedicated person answered to questions raised in HackMD (HackMD specialist).
   <li> Time schedule can be kept as an instructor can focus on the lecture and live coding.</li>
   <li> Cleaned and published copy was useful to helpers and learnes afterwards.</li>
