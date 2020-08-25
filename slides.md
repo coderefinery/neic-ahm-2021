@@ -350,6 +350,7 @@ class: center, middle, inverse
 <!-- If you're asking whether you can be a helper, you most likely can! -->
 
 .left-column-70[
+- Matúš Kalaš, University of Bergen (Norway)
 - assigned a **breakout room**  <!-- Semi-stable breakout room assignment, with minimum changes of the "assigned" learners -->
 - leads exercise work in their room, or just **helps the learners** therein and answers their questions  <!-- incl. indexing where we are / what we are doing, asking how it goes, etc. -->  <!-- "My" learners mostly preferred to work alone first & then ask questions if needed. Occasionally someone sharing their screen -->
 - **forwards** interesting questions and difficult problems to HackMD or expert helpers
@@ -388,6 +389,7 @@ class: center, middle, inverse
 ## Expert helper
 
 .left-column-70[
+- Radovan Bast, University of Tromsø (Norway)
 - Expert helper knows the material well
 - Cycles through breakout rooms to see how it is going
   - Ensure helpers are doing OK
@@ -443,6 +445,7 @@ class: center, middle, inverse
 
 <!-- RD, 2 minutes -->
 
+- Richard Darst, Aalto University (Finland)
 - This role focuses on watching the HackMD and answering questions
   there.
   - This requires a different type of attention than paying attention to
