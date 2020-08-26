@@ -14,6 +14,10 @@ a {
   color: #3498db;
 }
 
+small {
+  color: #909090;
+}
+
 li {
   line-height: 1.5;
 }
