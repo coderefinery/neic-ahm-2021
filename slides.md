@@ -163,7 +163,7 @@ class: center, middle, inverse
 
 ---
 
-## Lectures & code-along exercises in the main room
+## Main room: Lectures & code-along exercises
 <!-- Anne -->
 - Short lectures to explain a concept and "asynchronous Q&A" in main room
 - Demonstrate it on a very short example (and often repeat explanation)
@@ -179,7 +179,7 @@ class: center, middle, inverse
 
 ---
 
-## Get help and group exercises in a breakout room
+## Breakout rooms: Get help and group exercises
 
 - Apply concepts previously taught to check understanding
 - Helpers often "taught" again to clarify concept
