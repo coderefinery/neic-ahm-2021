@@ -476,7 +476,7 @@ class: center, middle, inverse
 
 <!-- RD, 2 minutes -->
 
-- Richard Darst, Aalto University (Finland)
+- Richard Darst, Aalto Scientific Computing, Aalto University (Finland)
 - This role focuses on watching the HackMD and answering questions
   there.
   - This requires a different type of attention than paying attention to
