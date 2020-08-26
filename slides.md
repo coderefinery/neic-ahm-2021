@@ -244,7 +244,7 @@ One week before the workshop:
   email.
   - Very thorough setup instructions + university-specific instructions.
   - Made three videos about git configuration, plus "shell crash
-    course"
+    course" ([link](https://coderefinery.github.io/2020-05-25-online/#prerequisites))
 - Two pre-workshop "verification times", request that everyone attends.
   - In the verification time, we would pair learners with helpers and
 	have them test git and Python (not just install, but settings).
