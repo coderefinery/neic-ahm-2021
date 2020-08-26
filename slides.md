@@ -121,7 +121,7 @@ https://coderefinery.org/lessons/
 
 <!-- RD drafts this, 2+10+3 minutes -->
 
-- Our previous workshops weren't very large
+- Our previous workshops were in-person and not very large (~25 learners)
 - The promise of technology is to be able to reach huge numbers of
   people at once.  But is that too impersonal?
 - Surely we must be able to get the best of best worlds...
