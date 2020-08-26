@@ -280,7 +280,7 @@ One week before the workshop:
 
 ## Distribution of roles
 <!-- Naoe -->
-<img src="img/CC_role_distribution_illustration_HackMDspecialist.png" alt="a schematic illustration to show flexible assignment of roles of instructor and expert helper" width="100%" />
+<img src="img/CC_role_distribution_illustration_HackMDhost.png" alt="a schematic illustration to show flexible assignment of roles of instructor and expert helper" width="100%" />
 
 ---
 
