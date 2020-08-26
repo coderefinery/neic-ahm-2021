@@ -165,17 +165,17 @@ class: center, middle, inverse
 
 ## Lectures & code-along exercises in the main room
 <!-- Anne -->
-- Short lectures to explain a concept and "asynchronous Q&A" in main room
+- Short lectures to explain a concept, and "asynchronous Q&A" in the main room
 - Demonstrate it on a very short example (and often repeat explanation)
 - Exercises more in the breakout rooms among groups
 - Check understanding:
 	- surveys with simple (yes/no) questions
 	- check speed with faster/slower buttons
-	- ask a question and learners write down answers in hackMD
-	- ask learners to contribute to discussion via hackMD
+	- ask a question and learners write down answers in HackMD
+	- ask learners to contribute to discussion via HackMD
 - Sometimes make a code-along exercise and always repeat similar exercise in breakout rooms
 
-*Move on when about 70% have answered so delegate potential misunderstanding to helpers during group exercises.*
+*Move on when about 70% have answered, so delegate potential misunderstanding to helpers during group exercises.*
 
 ---
 
@@ -183,7 +183,7 @@ class: center, middle, inverse
 
 - Apply concepts previously taught to check understanding
 - Helpers often "taught" again to clarify concept
-- pre-defined and fixed breakout rooms with 3 to 10 people in each:
+- Pre-defined and fixed breakout rooms with 3 to 10 people in each:
 	- larger groups were allowed when learners registered together
 	- helpers played a key role to animate the group
 	- encouraged one learner to share his/her screen during the exercise
@@ -199,7 +199,7 @@ class: center, middle, inverse
 	- Personalized emails with room numbers
 	- Zoom name = “(5) Richard Darst” or “(5,H) Richard Darst”
 
-- The designated helper was very often someone who already attended a CodeRefinery in-person workshop or someone in charge of technical support for the team
+- The designated helper was very often someone who already attended a CodeRefinery in-person workshop, or someone in charge of technical support for the team
 
 *This is how we effectively scaled...*
 
@@ -240,7 +240,7 @@ One week before the workshop:
 
 - With 100 people, there is very little tolerance for technical
   problems.
-- Huge emphasis: install and *test* software before, said in every
+- Huge emphasis: install and *test* software before, written in every
   email.
   - Very thorough setup instructions + university-specific instructions.
   - Made three videos about git configuration, plus "shell crash
@@ -268,7 +268,7 @@ One week before the workshop:
   <li> Easier to ask questions in an open landscape office.
   <li> A dedicated person answered to questions raised in HackMD (HackMD host).
   <li> Time schedule can be kept as an instructor can focus on the lecture and live coding.</li>
-  <li> Cleaned and published copy was useful to helpers and learners afterwards.</li>
+  <li> Cleaned and published copy was useful to helpers and learnes afterwards.</li>
   <li> Stable most of the time with 50-100 users (depending on the edit history length).</li>
 </ul>
 <ul style="list-style-type:' \0021 \0020 \0020'">
@@ -355,7 +355,7 @@ class: center, middle, inverse
 <!--Petri, 2 minutes-->
 
 .left-column-70[
-- Petri Jehkonen, **learner**, Master's student at Aalto University
+- Petri Jehkonen, **learner**, Master student at Aalto University
 - Background - SW (C, Assembly) for embedded solutions
 - Expectation - Git (only)
 - Workshop arrangements from beginning to end were well managed
@@ -452,12 +452,12 @@ class: center, middle, inverse
 <!-- Naoe -->
 
 .left-column-70[
-- Naoe Tatara, University of Oslo Science Library, Digital Scholarship Center.
+- Naoe Tatara, University of Oslo Science Library, Digital Scholarship Center
 - Dedicated for Zoom room management, including recording and streaming
 	- Zoom-participant control <!-- entry approval and co-host assignment -->
 	- Communication with participants <!-- mainly via Zoom chat for practical things -->
 	- Breakout room management <!-- assignment, timing, disabling/enabling waiting room, flexibility and consistency -->
-- Important to pay attention to multiple communication channel.
+- Important to pay attention to multiple communication channels
 - Details on [our blog post](https://coderefinery.org/blog/2020/07/31/mega-coderefinery/)
 ]
 
@@ -482,7 +482,7 @@ class: center, middle, inverse
   - Answer questions
   - Bring up important questions to the instructor
   - Organize/comment on complicated answers
-  - Add links and "meta-information" about where we are.
+  - Add links and "meta-information" about where we are
   - Ensures consistent formatting, prepares it for publication
 
 ---
