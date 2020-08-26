@@ -217,6 +217,8 @@ One week before the workshop:
 - Course schedule walk-through with instructors and organizers
 - Exercise/breakout-room walk-through (**we need to do this better next time**)
 
+*This is how we get new people involved in the project: next
+generation of instructors?*
 
 ---
 
@@ -234,6 +236,10 @@ One week before the workshop:
 <img src="img/CC_hierarchical_helpers_illustration.png" alt="Expert helpers cycle between breakout rooms while helpers are assigned to one specific breakout room" style="width:100%">
 
 ]
+
+*This is how we could take advantage of new helpers without worrying
+too much.*
+
 ---
 
 ## Required preparation, install times
@@ -296,6 +302,9 @@ One week before the workshop:
 	- Debriefing among helpers and instructors,
 	- Individual help by helper or expert helper,
 	- Continuation of exercise by a team
+
+*This promoted community and let us more actively recruit for the next
+generation of workshops.*
 
 ---
 
