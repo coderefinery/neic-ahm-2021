@@ -268,7 +268,7 @@ One week before the workshop:
   <li> Easier to ask questions in an open landscape office.
   <li> A dedicated person answered to questions raised in HackMD (HackMD host).
   <li> Time schedule can be kept as an instructor can focus on the lecture and live coding.</li>
-  <li> Cleaned and published copy was useful to helpers and learnes afterwards.</li>
+  <li> Cleaned and published copy was useful to helpers and learners afterwards.</li>
   <li> Stable most of the time with 50-100 users (depending on the edit history length).</li>
 </ul>
 <ul style="list-style-type:' \0021 \0020 \0020'">
