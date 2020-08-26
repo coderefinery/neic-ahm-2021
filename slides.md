@@ -393,9 +393,9 @@ class: center, middle, inverse
 <!-- incl. indexing where we are / what we are doing, asking how it goes, etc. -->
 <!-- "My" learners mostly preferred to work alone first & then ask questions if needed. Occasionally someone sharing their screen -->
 - **Forwards** interesting questions and difficult problems to HackMD or expert helpers
-- Depending on confidence with the exercises, needs only **minimum preparation** <br/><small>(so awesome that instructors prepared everything so well!)</small>
+- Depending on confidence with the exercises, needs only **minimum preparation** <br/><small>(So awesome that instructors prepared everything so well!)</small>
 <!-- Preparation as a helper recommended, but most of the time (would have) worked also without. I skipped preparation in one exercise (about what I do every day), and I managed to mess it up quite a bit :DD  All other exercises were smooth though. -->
-- If 2 screens or fast in switching, a helper may help **answering** in HackMD and Zoom chat <br/><small>(there are also optional advanced exercises, and <br/>advanced topics to discuss in HackMD)</small>
+- If 2 screens or fast in switching, a helper may help **answering** in HackMD and Zoom chat <br/><small>(There are also optional advanced exercises, and <br/>advanced topics to discuss in HackMD)</small>
 <!-- If without an extra screen (recommended but not mandatory), I personally wouldn't have been able to follow hackMD, and chat also not so much. But the helper work would still function just fine. -->
 - **Learns** a lot, feels useful, and has a lot of **fun** ;D
 <!-- Much more fun to go through the teaching material as a helper than just following it alone (and to experience the whole workshop in its interactivity and excitement!) -->
