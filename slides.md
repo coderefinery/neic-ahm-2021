@@ -91,7 +91,8 @@ https://coderefinery.org/lessons/
 
 - Using Carpentries teaching style and format
 - We believe that our lessons fill a gap
-- Lessons are not in the Carpentries incubator (incubator mostly for novices, lessons are mature, lessons are a package)
+- Lessons are not in the Carpentries incubator because they stand as a
+  mature unit and have open governance already (also not for novices?)
 - Co-funding Carpentries coordinator Nordics/Baltics
 
 
@@ -100,6 +101,7 @@ https://coderefinery.org/lessons/
 - Is there a need for more intermediate/advanced Carpentries-style material for
   learners who have completed a basic Carpentries training?
 - What topics/courses are needed?
+- What keeps our material from being used already?
 
 *Please answer via HackMD*
 
