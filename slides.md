@@ -10,13 +10,14 @@ class: center, middle, inverse
 
 ---
 
-## We will talk about lessons learned from a "mega" workshop
+## We will talk about lessons learned from teaching a number of online workshops
 
-- Workshop: https://coderefinery.github.io/2020-05-25-online/
-- Blog post: https://coderefinery.org/blog/2020/07/31/mega-coderefinery/
+- [Blog post](https://coderefinery.org/blog/2020/07/31/mega-coderefinery/)
+- [Presentation at CarpentryCon 2020](https://2020.carpentrycon.org/schedule/#session-32)
+- [Slides of the CarpentryCon 2020 talk](https://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/carpentrycon-2020/master/slides.md/)
 
 
-## This presentation is a team effort
+## Presenters at CarpentryCon 2020
 
 <img src="img/naoe_tatara.jpg" class="round-smaller">
 <img src="https://eu.ui-avatars.com/api/?name=R+D" class="round-smaller">
@@ -26,20 +27,15 @@ class: center, middle, inverse
 <img src="img/samantha.jpg" class="round-smaller">
 <img src="img/radovan-bast.jpg" class="round-smaller">
 
-[coderefinery.org](https://coderefinery.org/)
-
-[@coderefine](https://twitter.com/coderefine)
-
-[coderefinery.zulipchat.com](https://coderefinery.zulipchat.com/)
-
 ---
 
 ## Introduction to the session
 
-- House keeping
+### House keeping
  - Questions about the contents -> HackMD
  - Questions about technical stuff -> Zoom Chat
-- Contents (20 min)
+
+### Contents (20 min)
  - What is CodeRefinery?
  - A vision of reaching many people at once
  - How we did it
@@ -49,8 +45,6 @@ class: center, middle, inverse
 ---
 
 ## CodeRefinery: project and funding
-
-<!-- RB, 5 minutes, 3 slides -->
 
 - Funded 2016-2021 by [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/)
 - Co-funding by Sigma2 (Norway), SNIC (Sweden), DeiC (Denmark), CSC (Finland), ETAIS (Estonia)
