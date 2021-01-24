@@ -35,18 +35,16 @@ class: center, middle, inverse
 ---
 
 ## Introduction to the session
-<!-- Naoe -->
 
-- Carpentries Code of Conduct
 - House keeping
  - Questions about the contents -> HackMD
  - Questions about technical stuff -> Zoom Chat
-- Contents
- - What is CodeRefinery? (5 minutes)
- - A vision of reaching many people at once (with BR session; 15 minutes)
- - How we did it (20 minutes)
- - Role presentations (20 minutes)
- - Future outlook and discussion (10 minutes)
+- Contents (20 min)
+ - What is CodeRefinery?
+ - A vision of reaching many people at once
+ - How we did it
+ - Role presentations
+ - Future outlook and discussion
 
 ---
 
