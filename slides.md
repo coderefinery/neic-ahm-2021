@@ -49,9 +49,10 @@ class: center, middle, inverse
 - Funded 2016-2021 by [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/)
 - Co-funding by Sigma2 (Norway), SNIC (Sweden), DeiC (Denmark), CSC (Finland), ETAIS (Estonia)
 - Important hubs: NTNU Trondheim, University of Oslo, KTH Stockholm, Aalto University
-- Trained over 700 learners [in over 30 workshops](https://coderefinery.org/workshops/past/)
+- Over 1400 persons trained
+- Since March 2020 we have organized 15 events
 
-<img src="img/map.png" alt="Map of workshops" style="width:30%">
+### [Map of past workshop/events](https://coderefinery.org/workshops/past/)
 
 ---
 
@@ -81,8 +82,6 @@ https://coderefinery.org/lessons/
 
 ## A vision of reaching many people at once
 
-<!-- RD -->
-
 ![The first idea... accept everyone, stream for everyone else](img/inspiration-1.png)
 
 --
@@ -93,8 +92,6 @@ https://coderefinery.org/lessons/
 
 ## A vision of reaching many people at once
 
-<!-- RD drafts this, 2+10+3 minutes -->
-
 - Our previous workshops were in-person and not very large (~25 learners)
 - The promise of technology is to be able to reach huge numbers of
   people at once.  But is that too impersonal?
@@ -102,24 +99,6 @@ https://coderefinery.org/lessons/
 - With a consistent vision, yes, you can reach many people.  But it
   requires that vision from the start, and everything supporting that
   value.
-
-
-### Questions to the audience
-
-- How can large be more inclusive?  How is it less?
-- What technical obstacles does it have?
-
-*10 minutes to discuss in breakout rooms, summarize here after. Please
-write answers in HackMD.*
-
-<!--
-- Why you need a vision (Mega-Coderefinery vs HPC kickstart)
-- You can get even *more* out of it
-- Question to audience via breakout room, answers in HackMD:
-  - How can large be more inclusive?  How is it less?
-  - What technical obstacles does it have?
-- Do we discuss results in main room?
--->
 
 ---
 
