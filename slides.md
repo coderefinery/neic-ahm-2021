@@ -85,26 +85,6 @@ https://coderefinery.org/lessons/
 
 ---
 
-## CodeRefinery: relation to Carpentries
-
-- Using Carpentries teaching style and format
-- We believe that our lessons fill a gap
-- Lessons are not in the Carpentries incubator because they stand as a
-  mature unit and have open governance already (also not for novices?)
-- Co-funding Carpentries coordinator Nordics/Baltics
-
-
-### Questions to the audience
-
-- Is there a need for more intermediate/advanced Carpentries-style material for
-  learners who have completed a basic Carpentries training?
-- What topics/courses are needed?
-- What keeps our material from being used already?
-
-*Please answer via HackMD*
-
----
-
 ## A vision of reaching many people at once
 
 <!-- RD -->
