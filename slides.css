@@ -56,6 +56,17 @@ li {
   top: 0px;
 }
 
+.round-smaller-hg {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 49%;
+  border: 2px solid red;
+  position: relative;
+  left: 0px;
+  top: 0px;
+}
+
 .round {
   width: 200px;
   height: 200px;
@@ -73,5 +84,15 @@ li {
 
 .right-column-30 {
   width: 30%;
+  float: right;
+}
+
+.left-column-30 {
+  width: 30%;
+  float: left;
+}
+
+.right-column-70 {
+  width: 70%;
   float: right;
 }

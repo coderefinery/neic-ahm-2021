@@ -289,54 +289,79 @@ generation of workshops.*
 
 ---
 
-class: center, middle, inverse
-
 # Role presentations
 
-### 1. Learner
-### 2. Helper
-### 3. Helper on a team
-### 4. Expert helper
-### 5. Instructor
-### 6. Zoom host
-### 7. HackMD host
-
-<!--NT will moderate this session, 20 minutes　-->
-
-<!-- - They should: say what the role is, why the role is important, say what -->
-<!--   you thought, what went well, what should be improved.  Please also check -->
-<!--   what the other roles are, so that you can focus on what makes your role -->
-<!--   special -->
-<!--     - one slide per role -->
-<!--     - Naoe starts this session by giving word to the speakers -->
-
----
-
-## Learner
-
-<!--Petri, 2 minutes-->
+<img src="img/petri.jpg" class="round-smaller">
+<img src="img/mk_transparent_crop_small.png" class="round-smaller">
+<img src="img/samantha.jpg" class="round-smaller">
+<img src="img/radovan-bast.jpg" class="round-smaller">
+<img src="img/af.png" class="round-smaller">
+<img src="img/naoe_tatara.jpg" class="round-smaller">
+<img src="https://eu.ui-avatars.com/api/?name=R+D" class="round-smaller">
 
 .left-column-70[
-- Petri Jehkonen, **learner**, Master student at Aalto University
-- Background - SW (C, Assembly) for embedded solutions
-- Expectation - Git (only)
+1. Learner
+2. Helper
+3. Helper on a team
+4. Expert helper
+5. Instructor
+6. Zoom host
+7. HackMD host
+]
+
+---
+# Role presentations
+
+<img src="img/petri.jpg" class="round-smaller-hg">
+<img src="img/mk_transparent_crop_small.png" class="round-smaller">
+<img src="img/samantha.jpg" class="round-smaller">
+<img src="img/radovan-bast.jpg" class="round-smaller">
+<img src="img/af.png" class="round-smaller">
+<img src="img/naoe_tatara.jpg" class="round-smaller">
+<img src="https://eu.ui-avatars.com/api/?name=R+D" class="round-smaller">
+
+.left-column-30[
+1. **Learner**
+2. Helper
+3. Helper on a team
+4. Expert helper
+5. Instructor
+6. Zoom host
+7. HackMD host
+]
+
+.right-column-70[
+- **Petri Jehkonen**, Master student at Aalto University
+- **Background** - SW (C, Assembly) for embedded solutions
+- **Expectation** - Git (only)
 - Workshop arrangements from beginning to end were well managed
 - Challenges for learner
 - Outcome - Much more than Git
 ]
 
-.right-column-30[
-<img src="img/petri.jpg" class="round">
+---
+# Role presentations
+
+<img src="img/petri.jpg" class="round-smaller">
+<img src="img/mk_transparent_crop_small.png" class="round-smaller-hg">
+<img src="img/samantha.jpg" class="round-smaller">
+<img src="img/radovan-bast.jpg" class="round-smaller">
+<img src="img/af.png" class="round-smaller">
+<img src="img/naoe_tatara.jpg" class="round-smaller">
+<img src="https://eu.ui-avatars.com/api/?name=R+D" class="round-smaller">
+
+.left-column-30[
+1. Learner
+2. **Helper**
+3. Helper on a team
+4. Expert helper
+5. Instructor
+6. Zoom host
+7. HackMD host
 ]
 
----
-
-## Helper
-
-<!--Matúš, 2 minutes-->
-
-.left-column-70[
-- Matúš Kalaš, University of Bergen (Norway)
+.right-column-70[
+- **Matúš Kalaš**, University of Bergen (Norway)
 <!-- If you're asking whether you can be a helper, you most likely can! -->
 - Assigned a **breakout room**
 <!-- Semi-stable breakout room assignment, with minimum changes of the "assigned" learners -->
@@ -344,9 +369,11 @@ class: center, middle, inverse
 <!-- incl. indexing where we are / what we are doing, asking how it goes, etc. -->
 <!-- "My" learners mostly preferred to work alone first & then ask questions if needed. Occasionally someone sharing their screen -->
 - **Forwards** interesting questions and difficult problems to HackMD or expert helpers
-- Depending on confidence with the exercises, needs only **minimum preparation** <br/><small>(So awesome that instructors prepared everything so well!)</small>
+- Depending on confidence with the exercises, needs only **minimum preparation** <br/>
+<!-- <small>(So awesome that instructors prepared everything so well!)</small> -->
 <!-- Preparation as a helper recommended, but most of the time (would have) worked also without. I skipped preparation in one exercise (about what I do every day), and I managed to mess it up quite a bit :DD  All other exercises were smooth though. -->
-- If 2 screens or fast in switching, a helper may help **answering** in HackMD and Zoom chat <br/><small>(There are also optional advanced exercises, and <br/>advanced topics to discuss in HackMD)</small>
+- If 2 screens or fast in switching, a helper may help **answering** in HackMD and Zoom chat <br/>
+<!-- <small>(There are also optional advanced exercises, and <br/>advanced topics to discuss in HackMD)</small> -->
 <!-- If without an extra screen (recommended but not mandatory), I personally wouldn't have been able to follow hackMD, and chat also not so much. But the helper work would still function just fine. -->
 - **Learns** a lot, feels useful, and has a lot of **fun** ;D
 <!-- Much more fun to go through the teaching material as a helper than just following it alone (and to experience the whole workshop in its interactivity and excitement!) -->
@@ -355,17 +382,29 @@ class: center, middle, inverse
 	- more explicit when & what helpers should prepare
 -->
 ]
+---
+# Role presentations
 
-.right-column-30[
-<img src="img/mk_transparent_crop_small.png" class="round">
+<img src="img/petri.jpg" class="round-smaller">
+<img src="img/mk_transparent_crop_small.png" class="round-smaller">
+<img src="img/samantha.jpg" class="round-smaller-hg">
+<img src="img/radovan-bast.jpg" class="round-smaller">
+<img src="img/af.png" class="round-smaller">
+<img src="img/naoe_tatara.jpg" class="round-smaller">
+<img src="https://eu.ui-avatars.com/api/?name=R+D" class="round-smaller">
+
+.left-column-30[
+1. Learner
+2. Helper
+3. **Helper on a team**
+4. Expert helper
+5. Instructor
+6. Zoom host
+7. HackMD host
 ]
 
----
-
-## Learner / Helper on a team
-
-.left-column-70[
-- Samantha Wittke, PhD student at Aalto University and Researcher at Finnish Geospatial Research Institute (FGI)
+.right-column-70[
+- **Samantha Wittke**, PhD student at Aalto University and Researcher at Finnish Geospatial Research Institute (FGI)
 - **Helper on a team** from FGI
 - Myself: in-person workshop **learner one year ago**
 - **Lower barrier** to interact/ask questions
@@ -373,84 +412,132 @@ class: center, middle, inverse
 - **Easy to get lost** in course-unrelated topics
 ]
 
-.right-column-30[
-<img src="img/samantha.jpg" class="round">
+---
+# Role presentations
+
+<img src="img/petri.jpg" class="round-smaller">
+<img src="img/mk_transparent_crop_small.png" class="round-smaller">
+<img src="img/samantha.jpg" class="round-smaller">
+<img src="img/radovan-bast.jpg" class="round-smaller-hg">
+<img src="img/af.png" class="round-smaller">
+<img src="img/naoe_tatara.jpg" class="round-smaller">
+<img src="https://eu.ui-avatars.com/api/?name=R+D" class="round-smaller">
+
+.left-column-30[
+1. Learner
+2. Helper
+3. Helper on a team
+4. **Expert helper**
+5. Instructor
+6. Zoom host
+7. HackMD host
 ]
 
----
-
-## Expert helper
-
-.left-column-70[
-- Radovan Bast, University of Tromsø (Norway)
-- Expert helper knows the material well
+.right-column-70[
+- **Radovan Bast**, University of Tromsø (Norway)
+- **Knows the material well**
 - Cycles through breakout rooms to see how it is going
-  - Ensure helpers are doing OK
-  - Encourage discussion
-  - Encourage learners to share screen in breakout rooms
+  - **Ensure helpers are doing OK**
+  - **Encourage** discussion
+  - **Encourage** learners to share screen in breakout rooms
   - Provide advice when needed
-- Helper can call other helpers via HackMD/chat
-]
-
-.right-column-30[
-<img src="img/radovan-bast.jpg" class="round">
+- Can call other helpers via HackMD/chat
 ]
 
 ---
+# Role presentations
 
-## Instructor
+<img src="img/petri.jpg" class="round-smaller">
+<img src="img/mk_transparent_crop_small.png" class="round-smaller">
+<img src="img/samantha.jpg" class="round-smaller">
+<img src="img/radovan-bast.jpg" class="round-smaller">
+<img src="img/af.png" class="round-smaller-hg">
+<img src="img/naoe_tatara.jpg" class="round-smaller">
+<img src="https://eu.ui-avatars.com/api/?name=R+D" class="round-smaller">
 
-.left-column-70[
-- Anne Fouilloux, Research Software Engineer at the department of Geosciences, Oslo University (Norway)
+.left-column-30[
+1. Learner
+2. Helper
+3. Helper on a team
+4. Expert helper
+5. **Instructor**
+6. Zoom host
+7. HackMD host
+]
+
+.right-column-70[
+- **Anne Fouilloux**, Research Software Engineer at the University (Norway)
 - Taught from home with one screen (laptop)
-- Less pressure and easier to focus on the teaching thanks to CR team work (host, helpers, hackMD, etc.)
-- Need to have short assessments (surveys, questionnaires, etc.) frequently
-- Code-along sessions were sometimes too fast for many learners and often became demos
+- **Less pressure** and **easier** to focus on the teaching
+- **Get feedback** from your team
+- Get frequent, **interactive assessments** of learners' progress
+- **Tell your learners** when code-along or demos
 - Useful to be instructor and expert helper during the workshop
 ]
 
-.right-column-30[
-<img src="img/af.png" class="round">
+---
+# Role presentations
+
+<img src="img/petri.jpg" class="round-smaller">
+<img src="img/mk_transparent_crop_small.png" class="round-smaller">
+<img src="img/samantha.jpg" class="round-smaller">
+<img src="img/radovan-bast.jpg" class="round-smaller">
+<img src="img/af.png" class="round-smaller">
+<img src="img/naoe_tatara.jpg" class="round-smaller-hg">
+<img src="https://eu.ui-avatars.com/api/?name=R+D" class="round-smaller">
+
+.left-column-30[
+1. Learner
+2. Helper
+3. Helper on a team
+4. Expert helper
+5. Instructor
+6. **Zoom host**
+7. HackMD host
 ]
 
----
-
-## Zoom host
-<!-- Naoe -->
-
-.left-column-70[
-- Naoe Tatara, University of Oslo Science Library, Digital Scholarship Center
-- Dedicated for Zoom room management, including recording and streaming
+.right-column-70[
+- **Naoe Tatara**, University of Oslo Science Library, Digital Scholarship Center
+- **Dedicated for Zoom room management**, including recording and streaming
 	- Zoom-participant control <!-- entry approval and co-host assignment -->
 	- Communication with participants <!-- mainly via Zoom chat for practical things -->
 	- Breakout room management <!-- assignment, timing, disabling/enabling waiting room, flexibility and consistency -->
-- Important to pay attention to multiple communication channels
+- Important to **pay attention to multiple communication channels**
 - Details on [our blog post](https://coderefinery.org/blog/2020/07/31/mega-coderefinery/)
 ]
 
-.right-column-30[
-<img src="img/naoe_tatara.jpg" class="round">
+---
+# Role presentations
+
+<img src="img/petri.jpg" class="round-smaller">
+<img src="img/mk_transparent_crop_small.png" class="round-smaller">
+<img src="img/samantha.jpg" class="round-smaller">
+<img src="img/radovan-bast.jpg" class="round-smaller">
+<img src="img/af.png" class="round-smaller">
+<img src="img/naoe_tatara.jpg" class="round-smaller">
+<img src="https://eu.ui-avatars.com/api/?name=R+D" class="round-smaller-hg">
+
+.left-column-30[
+1. Learner
+2. Helper
+3. Helper on a team
+4. Expert helper
+5. Instructor
+6. Zoom host
+7. **HackMD host**
 ]
 
----
-
-## HackMD host
-
-<!-- RD, 2 minutes -->
-
-- Richard Darst, Aalto Scientific Computing, Aalto University (Finland)
-- This role focuses on watching the HackMD and answering questions
-  there.
-  - This requires a different type of attention than paying attention to
-    lessons, so we have a dedicated role for this.
-  - Everyone can help with answering questions, but at least one person
+.right-column-70[
+- **Richard Darst**, Aalto Scientific Computing, Aalto University (Finland)
+- Focus on **monitoring the HackMD**
+  - Everyone can answer questions, but at least one person
     always dedicated to it.
-- Typical tasks
-  - Answer questions
-  - Bring up important questions to the instructor
-  - Organize/comment on complicated answers
-  - Add links and "meta-information" about where we are
-  - Ensures consistent formatting, prepares it for publication
+- **Answer questions**
+- **Bring up important questions to the instructor**
+- **Organize/comment** on complicated answers
+- Add links and "meta-information" about where we are
+- Ensure consistent formatting, **prepares it for publication**
+]
 
 ---
 
