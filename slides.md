@@ -231,6 +231,7 @@ generation of instructors?*
 
 - Always ask for feedback after every session (HackMD).
 - **Breaks**: non-negotiable, minimum 10 min/hour.
+- Don't teach alone.
 
 *Once you do it right, you might not go back!*
 
