@@ -112,7 +112,16 @@ class: center, middle, inverse
 
 ### Bring your own breakout room
 
-## An effective team work!
+## And effective team work!
+
+---
+
+## Don't complain about being online
+
+- Is it a disaster or an opportunity?
+- Don't even think of the same as before, but adapt to particular
+  advantages.
+- Invest in the tools, since we'll be using them more and more.
 
 ---
 
@@ -120,8 +129,7 @@ class: center, middle, inverse
 <!-- Anne -->
 - Short lectures to explain a concept, and "asynchronous Q&A" in the main room
 - Demonstrate it on a very short example (and often repeat explanation)
-- Exercises more in the breakout rooms among groups
-- Check understanding:
+- Mass feedback tools:
 	- surveys with simple (yes/no) questions
 	- check speed with faster/slower buttons
 	- ask a question and learners write down answers in HackMD
@@ -134,158 +142,84 @@ class: center, middle, inverse
 
 ## Breakout rooms: Get help and group exercises
 
-- Apply concepts previously taught to check understanding
+You can't have a community of 100 or 30 or ever 10 people: push
+community to breakout rooms
+
+- Pre-defined and fixed breakout rooms with **4 to 6 people + helper**
+  in each:
 - Helpers often "taught" again to clarify concept
-- Pre-defined and fixed breakout rooms with 3 to 10 people in each:
-	- larger groups were allowed when learners registered together
-	- helpers played a key role to animate the group
-	- encouraged one learner to share his/her screen during the exercise
-
-*First day was a bit quiet, especially in groups where learners did not know each others.*
-
----
-
-## Bring your own breakout room
-
-- Learners could register as a team (3-10 persons) with a designated helper:
+- **Teams**: Learners could register as a team (3-10 persons) with a
+  designated helper:
 	- Registration form included a “team name”
-	- Personalized emails with room numbers
-	- Zoom name = “(5) Richard Darst” or “(5,H) Richard Darst”
-
-- The designated helper was very often someone who already attended a CodeRefinery in-person workshop, or someone in charge of technical support for the team
+- Manage with zoom: Zoom name = “(5) Richard Darst” or “(5,H) Richard Darst”
 
 *This is how we effectively scaled...*
 
 ---
 
-## Helper training
-
-<!-- RB, 2 minutes -->
-
-One week before the workshop:
-- Discuss [Tips for helpers](https://coderefinery.github.io/manuals/helping-and-teaching/)
-  and [How helpers manage breakout rooms](https://coderefinery.github.io/manuals/breakout-rooms-helping/)
-- Course schedule walk-through with instructors and organizers
-- Exercise/breakout-room walk-through (**we need to do this better next time**)
-
-*This is how we get new people involved in the project: next
-generation of instructors?*
-
----
-
-## Hierarchical helpers
+## Helpers
 
 .left-column[
-- Helpers
-  - They don't have to know "everything"
-  - They can call in other helpers
-- Expert helpers (more about this role later)
-  - They support helpers
-  - They cycle between breakout rooms]
+- We want one helper per breakout room if at all possible
+
+- [Helper
+  training](https://coderefinery.github.io/manuals/helping-and-teaching/)
+  [(2)](https://coderefinery.github.io/manuals/breakout-rooms-helping/)
+  is short but important.
+- Expert helpers: stand-by instructors or experts, rotate around
+  breakout rooms/watch HackMD/relay questions
+
+]
 
 .right-column[
 <img src="img/CC_hierarchical_helpers_illustration.png" alt="Expert helpers cycle between breakout rooms while helpers are assigned to one specific breakout room" style="width:100%">
 
 ]
 
-*This is how we could take advantage of new helpers without worrying
-too much.*
+*This is how we get new people involved in the project: next
+generation of instructors?*
 
 ---
 
-## Required preparation, install times
+## Asynchronous Q&A, HackMD
 
-<!-- RD drafts this, 2 minutes -->
+- You can't scale Q&A to many people
+  - Does verbal Q&A even work for shy people in classrooms?
 
-- With 100 people, there is very little tolerance for technical
-  problems.
-- Huge emphasis: install and *test* software before, written in every
-  email.
-  - Very thorough setup instructions + university-specific instructions.
-  - Made three videos about git configuration, plus "shell crash
-    course" ([link](https://coderefinery.github.io/2020-05-25-online/#prerequisites))
-- Two pre-workshop "verification times", request that everyone attends.
-  - In the verification time, we would pair learners with helpers and
-	have them test git and Python (not just install, but settings).
-  - Verification times also serve as a "soft start" to practice tech
-    early.
-  - Credit to [Jason Bell](https://youtu.be/MzsJyOkxqv8) for the idea.
-- In the end, we did not have major problems.
-<!-- refer notes https://hackmd.io/xuIr733fROuIpwQ1g2mkOw?view "install verification time" -->
+- Meeting chat scrolls too fast, not suitable for questions
 
-<img src="img/config-videos.png" alt="configuration videos" style="width: 40%;">
+- Solution: **Collaborative notes for Q&A**
+  - Ask in bullet point, reply in others
+  - Dedicated people watching, answering, and asking questions by voice
+
+- Beware: warn learners of information overload
 
 ---
 
-## Collaborative notes
-<!-- Naoe -->
-- Use of HackMD for collection of Q&A regarding lesson contents
-<ul style="list-style-type:' \002B \0020 \0020'">
-  <li> Interactive questions and answer (among learners and instructors).
-  <li> Index where we are right now, links to lessons.
-  <li> Safer way to ask questions anonymously.
-  <li> Easier to ask questions in an open landscape office.
-  <li> A dedicated person answered to questions raised in HackMD (HackMD host).
-  <li> Time schedule can be kept as an instructor can focus on the lecture and live coding.</li>
-  <li> Cleaned and published copy was useful to helpers and learners afterwards.</li>
-  <li> Stable most of the time with 50-100 users (depending on the edit history length).</li>
-</ul>
-<ul style="list-style-type:' \0021 \0020 \0020'">
-  <li> Need to be careful to not overload the side channel with answers
-</ul>
-- For short communications for more practical questions, we used Zoom chat function.
+## Explain how to participate
+
+- It's obvious how to attend a lecture (or is it?)
+- But people don't yet know how to attend a course online.
+  - Focus, don't be distracted.  What to focus on.
+  - Screen layout
+  - How to use tools, layout screen
+
+- Opportunity for **multiple channels of communication**
+  - Voice + HackMD: allows catch-up
+  - But prevent information overload!
+
+- "Mandatory" install help and verification time
 
 ---
 
-## Distribution of roles
-<!-- Naoe -->
-<img src="img/CC_role_distribution_illustration_HackMDhost.png" alt="a schematic illustration to show flexible assignment of roles of instructor and expert helper" width="100%" />
+## Other things you can do
 
----
+- Always ask for feedback after every session (HackMD)
+- Explain how to participate
+- Recording: allows instant replay/catching up after workshop
+- Streaming: separate learners from instructors, anyone can watch.
 
-## Zoom room use for pre- and post-session
-<!-- Naoe -->
-- We opened the Zoom room 30 minutes before the scheduled session
-  start.
-  - Icebreaker starts 10 minutes early, ask people to come early
-  - Also extra install help and discussion
-- After the scheduled session is over, we kept the Zoom room open for;
-	- Debriefing among helpers and instructors,
-	- Individual help by helper or expert helper,
-	- Continuation of exercise by a team
-
-*This promoted community and let us more actively recruit for the next
-generation of workshops.*
-
----
-
-## Streaming and recording (1/2)
-
-<!-- RD drafts this, 2 minutes -->
-
-- If we have 100 people, interaction shifts to breakout rooms.  Why
-  can't more watch the lecture?
-  - Zoom meetings are *not* the right format for untrusted people to watch.
-  - Streaming is the right format: listeners isolated from presenters,
-	no risk of damage.
-- Zoom can stream directly to [Twitch](https://twitch.tv) (or other services) without any
-  other software needed.
-- It's a short step to recording
-  - Recordings were very requested by learners, so they could re-watch
-    what they learned.
-
----
-
-## Streaming and recording (2/2)
-
-- [Twitch](https://twitch.tv) is a streaming platform originally focused on games, we
-  knew it and it worked well.
-- We interacted with Twitch viewers via Twitch chat + HackMD.  It
-  worked fairly well.
-- We should have had less separation between zoomers and streamers,
-  and generally engaged the streamers more
-
-<img src="img/twitch.png" alt="Twitch screenshot" style="width:60%">
+*Once you do it right, you might not go back!*
 
 ---
 
