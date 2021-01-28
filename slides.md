@@ -215,7 +215,7 @@ generation of instructors?*
 
 - "Mandatory" install help and verification time
 
---
+---
 
 ## Streaming/recording
 
