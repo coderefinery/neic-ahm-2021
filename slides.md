@@ -162,12 +162,17 @@ community to breakout rooms
 .left-column[
 - We want one helper per breakout room if at all possible
 
+- Helpers don't have to be experts, just guides.
+
 - [Helper
   training](https://coderefinery.github.io/manuals/helping-and-teaching/)
   [(2)](https://coderefinery.github.io/manuals/breakout-rooms-helping/)
   is short but important.
-- Expert helpers: stand-by instructors or experts, rotate around
-  breakout rooms/watch HackMD/relay questions
+- Expert helpers: stand-by instructors or experts:
+
+  - Rotate around breakout rooms
+  - Watch HackMD/relay questions
+  - Eyes and ears of instructor
 
 ]
 
@@ -199,7 +204,7 @@ generation of instructors?*
 ## Explain how to participate
 
 - It's obvious how to attend a lecture (or is it?)
-- But people don't yet know how to attend a course online.
+- But people don't yet know how to attend a course online.  Main points:
   - Focus, don't be distracted.  What to focus on.
   - Screen layout
   - How to use tools, layout screen
@@ -210,14 +215,21 @@ generation of instructors?*
 
 - "Mandatory" install help and verification time
 
+--
+
+## Streaming/recording
+
+- Modern tech lets us reach everyone in the world at once
+- .. or allow people to review between courses.
+- But we hide zoom links because of fear of trolls
+- ... and also because of learner privacy.
+- How can we have both private environment and free access?
+
 ---
 
 ## Other things you can do
 
-- Always ask for feedback after every session (HackMD)
-- Explain how to participate
-- Recording: allows instant replay/catching up after workshop
-- Streaming: separate learners from instructors, anyone can watch.
+- Always ask for feedback after every session (HackMD).
 - **Breaks**: non-negotiable, minimum 10 min/hour.
 
 *Once you do it right, you might not go back!*
