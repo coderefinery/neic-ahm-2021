@@ -218,6 +218,7 @@ generation of instructors?*
 - Explain how to participate
 - Recording: allows instant replay/catching up after workshop
 - Streaming: separate learners from instructors, anyone can watch.
+- **Breaks**: non-negotiable, minimum 10 min/hour.
 
 *Once you do it right, you might not go back!*
 
